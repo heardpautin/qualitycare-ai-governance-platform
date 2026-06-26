@@ -128,11 +128,13 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 
 ![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
 
-![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
+## 2. AI Requests
 
-## 1. AI Request Form
+![AI Requests](screenshots/02_SharePoint_AI_Requests.png)
 
-![AI Request Form](screenshots/01_PowerApp_Request_Form.png)---
+## 3. AI Tool Inventory
+
+![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
 
 
 

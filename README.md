@@ -313,4 +313,4 @@ The following screenshots demonstrate the completed governance solution, includi
 
 **Craig W. Heard, MBA**
 
-Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting
+U.S. Army Veteran • Healthcare Professional • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Microsoft Power Platform

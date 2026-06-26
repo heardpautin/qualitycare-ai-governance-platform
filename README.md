@@ -107,7 +107,13 @@ These technologies automate governance activities while providing centralized re
 
 # Project Components
 
-## AI Request Intake
+SharePoint Lists provide centralized governance data supporting:
+
+• AI Requests
+• AI Tool Inventory
+• Audit Log
+
+---
 
 Power Apps provides a structured intake process allowing employees to submit AI tool requests while capturing governance information including:
 
@@ -119,42 +125,6 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 - Risk Classification
 
 ---
-
----
-
-# Project Screenshots
-
-## 1. AI Request Form
-
-![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
-
-## 2. AI Requests
-
-![AI Requests](screenshots/02_SharePoint_AI_Requests.png)
-
-## 3. AI Tool Inventory
-
-![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
-
----
-
-## 4. AI Audit Log
-
-![AI Audit Log](screenshots/04_SharePoint_AI_Audit_Log.png)
-
----
-
-## 5. Power Automate Approval Flow
-
-![Power Automate Approval Flow](screenshots/05_PowerAutomate_Approval_Flow.png)
-
----
-
-## 6. Executive Dashboard
-
-![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)
-
-
 
 SharePoint Lists provide centralized governance data supporting:
 
@@ -308,3 +278,44 @@ While designed around a fictional healthcare organization, the governance princi
 **Craig W. Heard, MBA**
 
 Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting
+
+
+=================================================
+PROJECT SCREENSHOTS
+=================================================
+
+# Project Screenshots
+
+## 1. AI Request Form
+
+![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
+
+---
+
+## 2. AI Requests
+
+![AI Requests](screenshots/02_SharePoint_AI_Requests.png)
+
+---
+
+## 3. AI Tool Inventory
+
+![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
+
+---
+
+## 4. AI Audit Log
+
+![AI Audit Log](screenshots/04_SharePoint_AI_Audit_Log.png)
+
+---
+
+## 5. Power Automate Approval Flow
+
+![Power Automate Approval Flow](screenshots/05_PowerAutomate_Approval_Flow.png)
+
+---
+
+## 6. Executive Dashboard
+
+![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)

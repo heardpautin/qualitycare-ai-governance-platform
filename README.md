@@ -107,13 +107,7 @@ These technologies automate governance activities while providing centralized re
 
 # Project Components
 
-SharePoint Lists provide centralized governance data supporting:
-
-• AI Requests
-• AI Tool Inventory
-• Audit Log
-
----
+## AI Request Intake
 
 Power Apps provides a structured intake process allowing employees to submit AI tool requests while capturing governance information including:
 
@@ -125,6 +119,8 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 - Risk Classification
 
 ---
+
+## Governance Data Layer
 
 SharePoint Lists provide centralized governance data supporting:
 
@@ -280,9 +276,9 @@ While designed around a fictional healthcare organization, the governance princi
 Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting
 
 
-=================================================
-PROJECT SCREENSHOTS
-=================================================
+The following screenshots illustrate the complete governance solution, including the request intake process, governance data layer, workflow automation, audit logging, and executive reporting dashboard.
+
+
 
 # Project Screenshots
 

@@ -136,6 +136,24 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 
 ![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
 
+---
+
+## 4. AI Audit Log
+
+![AI Audit Log](screenshots/04_SharePoint_AI_Audit_Log.png)
+
+---
+
+## 5. Power Automate Approval Flow
+
+![Power Automate Approval Flow](screenshots/05_PowerAutomate_Approval_Flow.png)
+
+---
+
+## 6. Executive Dashboard
+
+![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)
+
 
 
 SharePoint Lists provide centralized governance data supporting:

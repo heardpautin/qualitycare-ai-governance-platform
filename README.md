@@ -120,6 +120,45 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 
 ---
 
+---
+
+# Project Screenshots
+
+## AI Request Form
+
+![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
+
+---
+
+## AI Requests
+
+![AI Requests](screenshots/02_SharePoint_AI_Requests.png)
+
+---
+
+## AI Tool Inventory
+
+![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
+
+---
+
+## AI Audit Log
+
+![AI Audit Log](screenshots/04_SharePoint_AI_Audit_Log.png)
+
+---
+
+## Power Automate Approval Workflow
+
+![Power Automate Approval Workflow](screenshots/05_PowerAutomate_Approval_Flow.png)
+
+---
+
+## Executive Dashboard
+
+![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)
+
+---
 ## Governance Automation
 
 Power Automate manages the governance approval lifecycle by routing requests through structured approval workflows while automatically updating governance records.

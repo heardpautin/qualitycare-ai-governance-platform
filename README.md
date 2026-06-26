@@ -269,16 +269,9 @@ While designed around a fictional healthcare organization, the governance princi
 
 ---
 
-# Author
-
-**Craig W. Heard, MBA**
-
-Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting
-
 # Project Screenshots
 
-
-The following screenshots illustrate the complete governance solution, including the request intake process, governance data layer, workflow automation, audit logging, and executive reporting dashboard.
+The following screenshots demonstrate the completed governance solution, including the request intake process, governance data layer, workflow automation, audit logging, and executive reporting dashboard.
 
 
 ## 1. AI Request Form
@@ -314,3 +307,10 @@ The following screenshots illustrate the complete governance solution, including
 ## 6. Executive Dashboard
 
 ![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)
+
+
+# Author
+
+**Craig W. Heard, MBA**
+
+Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting

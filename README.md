@@ -156,9 +156,8 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 
 ## 6. Executive Dashboard
 
-![Executive Dashboard](Screenshots/06_PowerBI_Executive_Dashboard.png)---
+![Executive Dashboard](Screenshots/06_PowerBI_Executive_Dashboard.png)
 
-## Governance Data Layer
 
 SharePoint Lists provide centralized governance data supporting:
 

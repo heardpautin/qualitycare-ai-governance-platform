@@ -275,12 +275,11 @@ While designed around a fictional healthcare organization, the governance princi
 
 Healthcare IT • AI Governance • Governance, Risk & Compliance (GRC) • Identity & Access Management (IAM) • Risk Management • Microsoft Power Platform • Executive Reporting
 
+# Project Screenshots
+
 
 The following screenshots illustrate the complete governance solution, including the request intake process, governance data layer, workflow automation, audit logging, and executive reporting dashboard.
 
-
-
-# Project Screenshots
 
 ## 1. AI Request Form
 

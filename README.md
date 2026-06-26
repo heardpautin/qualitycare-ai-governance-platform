@@ -124,46 +124,39 @@ Power Apps provides a structured intake process allowing employees to submit AI 
 
 # Project Screenshots
 
-## AI Request Form
+## 1. AI Request Form
 
-![AI Request Form](screenshots/01_PowerApp_Request_Form.png)
-
----
-
-## AI Requests
-
-![AI Requests](screenshots/02_SharePoint_AI_Requests.png)
+![AI Request Form](Screenshots/01_PowerApp_Request_Form.png)
 
 ---
 
-## AI Tool Inventory
+## 2. AI Requests List
 
-![AI Tool Inventory](screenshots/03_SharePoint_AI_Tool_Inventory.png)
-
----
-
-## AI Audit Log
-
-![AI Audit Log](screenshots/04_SharePoint_AI_Audit_Log.png)
+![AI Requests](Screenshots/02_SharePoint_AI_Requests.png)
 
 ---
 
-## Power Automate Approval Workflow
+## 3. AI Tool Inventory
 
-![Power Automate Approval Workflow](screenshots/05_PowerAutomate_Approval_Flow.png)
+![AI Tool Inventory](Screenshots/03_SharePoint_AI_Tool_Inventory.png)
+
+---
+
+## 4. AI Audit Log
+
+![AI Audit Log](Screenshots/04_SharePoint_AI_Audit_Log.png)
 
 ---
 
-## Executive Dashboard
+## 5. Power Automate Approval Flow
 
-![Executive Dashboard](screenshots/06_PowerBI_Executive_Dashboard.png)
-
----
-## Governance Automation
-
-Power Automate manages the governance approval lifecycle by routing requests through structured approval workflows while automatically updating governance records.
+![Power Automate Approval Flow](Screenshots/05_PowerAutomate_Approval_Flow.png)
 
 ---
+
+## 6. Executive Dashboard
+
+![Executive Dashboard](Screenshots/06_PowerBI_Executive_Dashboard.png)---
 
 ## Governance Data Layer
 
